@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  勉強1.cpp
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(31,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'char **' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(31,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 2 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(32,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'char **' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(32,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 2 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(88,28): warning C4552: '<': 式の結果が使用されていません
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(89,29): warning C4552: '<': 式の結果が使用されていません
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(118,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(132,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(135,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(141,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(147,9): warning C4477: 'printf' : 書式文字列 '%x' には、型 'unsigned int' の引数が必要ですが、可変個引数 1 は型 'int *' です
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(87,9): warning C4101: 'arys': ローカル変数は 1 度も使われていません。
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(267,26): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\moriyoshihiko\source\repos\Project1\Project1\勉強1.cpp(160,7): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+  Project1.vcxproj -> C:\Users\moriyoshihiko\source\repos\Project1\Debug\勉強-基本.exe
