@@ -9,6 +9,8 @@ struct stay {
 	struct fate emiya;
 }saber;
 
+// niしだ
+
 void kouzoutai() {
 	//構造体の学習
 	printf("構造体(structure)の勉強です。\n");
